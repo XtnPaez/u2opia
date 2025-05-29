@@ -5,3 +5,8 @@ You are not allowed to create a Tweet with duplicate content.. ¿Contenido dupli
 2025-05-29 18:10:44,625 - WARNING - El error parece ser por contenido duplicado. Revisa tus prompts.
 2025-05-29 18:10:44,626 - ERROR - No se pudo publicar el prompt: 'Criaturas bioluminiscentes nadando en las profundidades de un océano abisal, creando un espectáculo de luz.'. No se marcará como usado.
 2025-05-29 18:10:44,626 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
+2025-05-29 18:18:30,399 - INFO - 🤖 Iniciando U2opia Bot...
+2025-05-29 18:18:30,399 - INFO - Prompt seleccionado: 'El interior de una nave espacial generacional, con ecosistemas completos y vistas a nebulosas distantes a través de sus ventanales.'
+2025-05-29 18:18:30,566 - INFO - Tuit publicado exitosamente! ID: 1928153995199000677
+2025-05-29 18:18:30,566 - INFO - Prompt 'El interior de una nave espacial generacional, con ecosistemas completos y vistas a nebulosas distantes a través de sus ventanales.' marcado como usado.
+2025-05-29 18:18:30,567 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
