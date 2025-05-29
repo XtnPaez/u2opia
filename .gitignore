@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.env
+*.venv
+
+# Archivos de configuración sensibles (si usas .env para credenciales)
+.env
+
+# Logs
+logs/*.log
+# Si quieres mantener el directorio logs aunque esté vacío
+!logs/.gitkeep 
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos específicos del proyecto que no deben subirse
+# data/used_prompts.txt # Depende si quieres que este estado se sincronice o sea local al bot
