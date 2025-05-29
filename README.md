@@ -7,8 +7,6 @@
 **Cuenta de Twitter (X):** [@U2opia\_x](https://twitter.com/U2opia_x)
 **Correo Electrónico (para soporte, feedback, etc.):** u2opia.mail@gmail.com
 
-**Visión:** Inspirar y ayudar a creadores, desarrolladores y entusiastas de la IA a explorar las posibilidades del lenguaje y la generación de contenido a través de prompts efectivos.
-
 **Tecnologías:**
 
 *   **Lenguaje de Programación:** Python
@@ -65,5 +63,3 @@
 6.  **Documentar el código con comentarios claros.**
 
 **Por favor, crea un archivo Python `main.py` con el código y explica cada sección y por qué la implementaste de esa manera. Podemos ir iterando y ajustando el código en esta conversación.**
-
-¡Comencemos con la magia de la programación! ¿Estás listo para crear el bot de prompts?"
