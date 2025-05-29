@@ -8,12 +8,21 @@ from config import (
 )
 
 # --- Configuración de Logging ---
+# Intenta establecer la codificación para la salida estándar si es posible
+import sys
+try:
+    sys.stdout.reconfigure(encoding='utf-8')
+    sys.stderr.reconfigure(encoding='utf-8')
+except AttributeError:
+    # Esto podría fallar en versiones antiguas de Python o ciertos entornos
+    pass # No es crítico para la funcionalidad del bot, solo para la visualización en consola
+
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
     handlers=[
-        logging.FileHandler(LOG_FILE_PATH),
-        logging.StreamHandler() # Para ver logs en la consola también
+        logging.FileHandler(LOG_FILE_PATH, encoding='utf-8'), # Añadir encoding aquí
+        logging.StreamHandler()
     ]
 )
 
