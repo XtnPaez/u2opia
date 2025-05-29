@@ -11,6 +11,9 @@ on:
 jobs:
   tweet:
     runs-on: ubuntu-latest # Usaremos un ejecutor de Linux (común y eficiente)
+        
+    permissions:
+      contents: write
     
     steps:
     - name: Checkout repository
