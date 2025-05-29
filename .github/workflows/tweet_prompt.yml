@@ -1,0 +1,45 @@
+name: Tweet Random Prompt
+
+on:
+  schedule:
+    # Ejecuta cada 6 horas.
+    # El formato cron es: minuto(0-59) hora(0-23) día_del_mes(1-31) mes(1-12) día_de_la_semana(0-6 o SUN-SAT)
+    # "0 */6 * * *" significa "a los 0 minutos de cada sexta hora".
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Permite ejecutar el workflow manualmente desde la pestaña Actions en GitHub
+
+jobs:
+  tweet:
+    runs-on: ubuntu-latest # Usaremos un ejecutor de Linux (común y eficiente)
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3 # Acción para clonar tu repositorio en el ejecutor
+
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11' # Especifica la versión de Python que usas (ajusta si es diferente)
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    - name: Create .env file from secrets
+      run: |
+        echo "TWITTER_API_KEY=${{ secrets.TWITTER_API_KEY }}" >> .env
+        echo "TWITTER_API_SECRET=${{ secrets.TWITTER_API_SECRET }}" >> .env
+        echo "TWITTER_ACCESS_TOKEN=${{ secrets.TWITTER_ACCESS_TOKEN }}" >> .env
+        echo "TWITTER_ACCESS_TOKEN_SECRET=${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}" >> .env
+        
+    - name: Run Tweet Bot
+      run: python src/bot.py
+
+    - name: Commit and push changes to data files (if any)
+      run: |
+        git config --global user.name 'github-actions[bot]'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add data/used_prompts.txt data/all_prompts_used.flag logs/bot.log # Añade los archivos que el bot modifica
+        # Solo haz commit y push si hay cambios
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update data files from scheduled tweet" && git push)
