@@ -1,0 +1,7 @@
+2025-05-29 18:10:44,493 - INFO - 🤖 Iniciando U2opia Bot...
+2025-05-29 18:10:44,493 - INFO - Prompt seleccionado: 'Criaturas bioluminiscentes nadando en las profundidades de un océano abisal, creando un espectáculo de luz.'
+2025-05-29 18:10:44,625 - ERROR - Error Forbidden (403) al tuitear: 403 Forbidden
+You are not allowed to create a Tweet with duplicate content.. ¿Contenido duplicado o permisos insuficientes?
+2025-05-29 18:10:44,625 - WARNING - El error parece ser por contenido duplicado. Revisa tus prompts.
+2025-05-29 18:10:44,626 - ERROR - No se pudo publicar el prompt: 'Criaturas bioluminiscentes nadando en las profundidades de un océano abisal, creando un espectáculo de luz.'. No se marcará como usado.
+2025-05-29 18:10:44,626 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
