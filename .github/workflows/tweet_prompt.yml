@@ -5,7 +5,7 @@ on:
     # Ejecuta cada 6 horas.
     # El formato cron es: minuto(0-59) hora(0-23) día_del_mes(1-31) mes(1-12) día_de_la_semana(0-6 o SUN-SAT)
     # "0 */6 * * *" significa "a los 0 minutos de cada sexta hora".
-    - cron: '0 */6 * * *'
+    - cron: '0 * * * *'
   workflow_dispatch: # Permite ejecutar el workflow manualmente desde la pestaña Actions en GitHub
 
 jobs:
