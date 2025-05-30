@@ -61,3 +61,8 @@ You are not allowed to create a Tweet with duplicate content.. ¿Contenido dupli
 Service Unavailable
 2025-05-30 20:24:01,434 - ERROR - No se pudo publicar el prompt: 'Follower, ya probaste esto en aistudio? "Genera la historia de un farero solitario que descubre que la luz de su faro es la clave para comunicarse con una civilización submarina oculta."'. No se marcará como usado.
 2025-05-30 20:24:01,434 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
+2025-05-30 21:19:30,865 - INFO - 🤖 Iniciando U2opia Bot...
+2025-05-30 21:19:30,865 - INFO - Prompt seleccionado: 'Follower, ya probaste esto en aistudio? "Analiza el fenómeno de los 'programas de reparación de bicicletas por voluntarios' en ciudades del Medio Oeste y su contribución a la movilidad sostenible y la cohesión social."'
+2025-05-30 21:19:31,047 - INFO - Tuit publicado exitosamente! ID: 1928561935127044281
+2025-05-30 21:19:31,048 - INFO - Prompt 'Follower, ya probaste esto en aistudio? "Analiza el fenómeno de los 'programas de reparación de bicicletas por voluntarios' en ciudades del Medio Oeste y su contribución a la movilidad sostenible y la cohesión social."' marcado como usado.
+2025-05-30 21:19:31,048 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
