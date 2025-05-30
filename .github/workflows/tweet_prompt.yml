@@ -11,9 +11,10 @@ on:
 jobs:
   tweet:
     runs-on: ubuntu-latest # Usaremos un ejecutor de Linux (común y eficiente)
-        
-    permissions:
-      contents: write
+    
+    permissions: # <--- ESTA SECCIÓN ES CRUCIAL
+     contents: write # Permiso para escribir (hacer push) al contenido del repositorio
+   
     
     steps:
     - name: Checkout repository
