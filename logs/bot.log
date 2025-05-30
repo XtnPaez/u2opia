@@ -55,3 +55,9 @@ You are not allowed to create a Tweet with duplicate content.. ¿Contenido dupli
 2025-05-30 19:17:21,637 - INFO - Tuit publicado exitosamente! ID: 1928531193336594670
 2025-05-30 19:17:21,637 - INFO - Prompt 'Follower, ya probaste esto en ChatGPT? -> Un pingüino DJ en una fiesta con focas bailarinas.' marcado como usado.
 2025-05-30 19:17:21,637 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
+2025-05-30 20:24:01,216 - INFO - 🤖 Iniciando U2opia Bot...
+2025-05-30 20:24:01,217 - INFO - Prompt seleccionado: 'Follower, ya probaste esto en aistudio? "Genera la historia de un farero solitario que descubre que la luz de su faro es la clave para comunicarse con una civilización submarina oculta."'
+2025-05-30 20:24:01,434 - ERROR - Error de Tweepy al publicar el tuit: 503 Service Unavailable
+Service Unavailable
+2025-05-30 20:24:01,434 - ERROR - No se pudo publicar el prompt: 'Follower, ya probaste esto en aistudio? "Genera la historia de un farero solitario que descubre que la luz de su faro es la clave para comunicarse con una civilización submarina oculta."'. No se marcará como usado.
+2025-05-30 20:24:01,434 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
