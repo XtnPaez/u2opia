@@ -159,3 +159,8 @@ Too Many Requests. Has alcanzado el límite de la API.
 Too Many Requests. Has alcanzado el límite de la API.
 2025-05-31 17:17:39,038 - ERROR - No se pudo publicar el prompt: 'Follower, ya probaste esto en aistudio? "Descubre la historia no contada de los 'guardianes de semillas' nativoamericanos en el Suroeste y sus esfuerzos por preservar la biodiversidad agrícola ancestral frente al cambio climático."'. No se marcará como usado.
 2025-05-31 17:17:39,038 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
+2025-05-31 18:28:26,439 - INFO - 🤖 Iniciando U2opia Bot...
+2025-05-31 18:28:26,439 - INFO - Prompt seleccionado: 'Follower, ya probaste esto en aistudio? "Crea una escena donde un antiguo golem de piedra despierta en un mundo moderno y se maravilla (o confunde) con la tecnología."'
+2025-05-31 18:28:26,627 - INFO - Tuit publicado exitosamente! ID: 1928881270953750721
+2025-05-31 18:28:26,627 - INFO - Prompt 'Follower, ya probaste esto en aistudio? "Crea una escena donde un antiguo golem de piedra despierta en un mundo moderno y se maravilla (o confunde) con la tecnología."' marcado como usado.
+2025-05-31 18:28:26,628 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
