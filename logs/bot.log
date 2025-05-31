@@ -148,3 +148,8 @@ Too Many Requests. Has alcanzado el límite de la API.
 Too Many Requests. Has alcanzado el límite de la API.
 2025-05-31 15:20:22,232 - ERROR - No se pudo publicar el prompt: 'Follower, ya probaste esto en aistudio? "Ilustra cómo el 'desciframiento de antiguas lenguas perdidas usando IA' está abriendo nuevas ventanas a civilizaciones del pasado."'. No se marcará como usado.
 2025-05-31 15:20:22,232 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
+2025-05-31 16:25:12,723 - INFO - 🤖 Iniciando U2opia Bot...
+2025-05-31 16:25:12,724 - INFO - Prompt seleccionado: 'Follower, ya probaste esto en aistudio? "Saca a la luz iniciativas ciudadanas en la costa de Oregón que utilizan drones para monitorear la erosión costera y proponer soluciones locales innovadoras."'
+2025-05-31 16:25:12,913 - INFO - Tuit publicado exitosamente! ID: 1928850259415019705
+2025-05-31 16:25:12,913 - INFO - Prompt 'Follower, ya probaste esto en aistudio? "Saca a la luz iniciativas ciudadanas en la costa de Oregón que utilizan drones para monitorear la erosión costera y proponer soluciones locales innovadoras."' marcado como usado.
+2025-05-31 16:25:12,913 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
