@@ -136,3 +136,9 @@ Service Unavailable
 2025-05-31 13:29:17,097 - INFO - Tuit publicado exitosamente! ID: 1928805985197478017
 2025-05-31 13:29:17,097 - INFO - Prompt 'Follower, ya probaste esto en ChatGPT? -> Sillas con patas de ave persiguiendo a mesas mutantes.' marcado como usado.
 2025-05-31 13:29:17,097 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
+2025-05-31 14:18:24,418 - INFO - 🤖 Iniciando U2opia Bot...
+2025-05-31 14:18:24,418 - INFO - Prompt seleccionado: 'Follower, ya probaste esto en aistudio? "Imagina una sinfonía compuesta por los sonidos del universo: púlsares, agujeros negros, el eco del Big Bang, traducida para ser escuchada por humanos."'
+2025-05-31 14:18:24,483 - ERROR - Error TooManyRequests (429) al tuitear: 429 Too Many Requests
+Too Many Requests. Has alcanzado el límite de la API.
+2025-05-31 14:18:24,483 - ERROR - No se pudo publicar el prompt: 'Follower, ya probaste esto en aistudio? "Imagina una sinfonía compuesta por los sonidos del universo: púlsares, agujeros negros, el eco del Big Bang, traducida para ser escuchada por humanos."'. No se marcará como usado.
+2025-05-31 14:18:24,483 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
