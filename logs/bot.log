@@ -142,3 +142,9 @@ Service Unavailable
 Too Many Requests. Has alcanzado el límite de la API.
 2025-05-31 14:18:24,483 - ERROR - No se pudo publicar el prompt: 'Follower, ya probaste esto en aistudio? "Imagina una sinfonía compuesta por los sonidos del universo: púlsares, agujeros negros, el eco del Big Bang, traducida para ser escuchada por humanos."'. No se marcará como usado.
 2025-05-31 14:18:24,483 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
+2025-05-31 15:20:22,159 - INFO - 🤖 Iniciando U2opia Bot...
+2025-05-31 15:20:22,159 - INFO - Prompt seleccionado: 'Follower, ya probaste esto en aistudio? "Ilustra cómo el 'desciframiento de antiguas lenguas perdidas usando IA' está abriendo nuevas ventanas a civilizaciones del pasado."'
+2025-05-31 15:20:22,232 - ERROR - Error TooManyRequests (429) al tuitear: 429 Too Many Requests
+Too Many Requests. Has alcanzado el límite de la API.
+2025-05-31 15:20:22,232 - ERROR - No se pudo publicar el prompt: 'Follower, ya probaste esto en aistudio? "Ilustra cómo el 'desciframiento de antiguas lenguas perdidas usando IA' está abriendo nuevas ventanas a civilizaciones del pasado."'. No se marcará como usado.
+2025-05-31 15:20:22,232 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
