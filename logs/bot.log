@@ -153,3 +153,9 @@ Too Many Requests. Has alcanzado el límite de la API.
 2025-05-31 16:25:12,913 - INFO - Tuit publicado exitosamente! ID: 1928850259415019705
 2025-05-31 16:25:12,913 - INFO - Prompt 'Follower, ya probaste esto en aistudio? "Saca a la luz iniciativas ciudadanas en la costa de Oregón que utilizan drones para monitorear la erosión costera y proponer soluciones locales innovadoras."' marcado como usado.
 2025-05-31 16:25:12,913 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
+2025-05-31 17:17:38,956 - INFO - 🤖 Iniciando U2opia Bot...
+2025-05-31 17:17:38,956 - INFO - Prompt seleccionado: 'Follower, ya probaste esto en aistudio? "Descubre la historia no contada de los 'guardianes de semillas' nativoamericanos en el Suroeste y sus esfuerzos por preservar la biodiversidad agrícola ancestral frente al cambio climático."'
+2025-05-31 17:17:39,038 - ERROR - Error TooManyRequests (429) al tuitear: 429 Too Many Requests
+Too Many Requests. Has alcanzado el límite de la API.
+2025-05-31 17:17:39,038 - ERROR - No se pudo publicar el prompt: 'Follower, ya probaste esto en aistudio? "Descubre la historia no contada de los 'guardianes de semillas' nativoamericanos en el Suroeste y sus esfuerzos por preservar la biodiversidad agrícola ancestral frente al cambio climático."'. No se marcará como usado.
+2025-05-31 17:17:39,038 - INFO - 🤖 U2opia Bot ha finalizado su ejecución.
