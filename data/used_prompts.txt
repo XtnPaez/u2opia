@@ -14,3 +14,4 @@ Follower, ya probaste esto en aistudio? "Describe el impacto potencial del halla
 Follower, ya probaste esto en aistudio? "Diseña un concierto futurista donde el artista es una IA que proyecta sinfonías visuales y sonoras que alteran la percepción de la realidad."
 Follower, ya probaste esto en aistudio? "Imagina un diálogo filosófico entre una IA avanzada y el último árbol de un bosque, discutiendo sobre el significado de la existencia y el legado."
 Follower, ya probaste esto en aistudio? "Crea un paisaje donde la naturaleza ha reclamado una ciudad abandonada, con robots de mantenimiento cubiertos de enredaderas y drones convertidos en nidos."
+Follower, ya probaste esto en ChatGPT? -> Un tren de juguete hecho de sushi real.
