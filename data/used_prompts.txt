@@ -44,3 +44,4 @@ Follower, ya probaste esto en aistudio? "Genera la imagen de un explorador espac
 Follower, ya probaste esto en aistudio? "Investiga sobre el creciente movimiento de 'agricultura urbana en azoteas' en barrios históricamente desatendidos de Detroit y cómo está mejorando el acceso a alimentos frescos."
 Follower, ya probaste esto en ChatGPT? -> Robots de cartón haciendo yoga en la playa.
 Follower, ya probaste esto en ChatGPT? -> Una ciudad hecha 100% de golosinas vivas.
+Follower, ya probaste esto en aistudio? "Genera la historia de un farero solitario que descubre que la luz de su faro es la clave para comunicarse con una civilización submarina oculta."
